@@ -1,0 +1,556 @@
+/* ==========================from 320px to 575px start============================== */
+@media (min-width:320px) and (max-width:575px){
+
+    #banner {
+        margin-top: 15px;
+    }
+
+
+    #banner .banner_left h3 {
+        font-size: 27px;
+        line-height: 35px;
+        width: auto;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    #banner .banner_left p {
+        width: auto;
+        padding-bottom: 10px;
+    }
+
+    #banner .banner_left .bannerbtn {
+        margin-bottom: 10px;
+    }
+
+    .banner_img {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    #service {
+        margin-top: 50px;
+    }
+
+    .title h3 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+
+    .title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+    }
+
+    .service_item {
+        margin-top: 30px;
+        padding: 25px 20px;
+    }
+
+    .service_item h3 {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .service_item p {
+        width: auto;
+        line-height: 20px;
+    }
+
+    #portfolio {
+        margin-top: 50px;
+    }
+
+    .portfolio_item {
+        margin-top: 30px;
+        margin-left: 12px;
+    }
+
+    #team_member {
+        margin-top: 50px;
+    }
+
+    .team_member_item {
+        margin-top: 30px;
+    }
+
+    .team_member_item img{
+        width:100%;
+    }
+
+    .team_member_item .name {
+        left: 80px;
+    }
+
+    #customer {
+        margin-top: 60px;
+    }
+
+    .customer_title h3 {
+        width: auto;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .customer_title p {
+        width: auto;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .customer_item {
+        margin-top: 30px;
+        padding: 15px;
+    }
+
+    .customer_img {
+        margin-bottom: 15px;
+    }
+
+    .customer_item p {
+        width: auto;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        line-height: 25px;
+    }
+
+    .customer_coma_img {
+        bottom: 10px;
+    }
+
+    .customer_item h5 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .customer_item h6 {
+        line-height: 20px;
+    }
+
+    #news {
+        margin-top: 60px;
+    }
+
+    .news_item {
+        margin-top: 30px;
+    }
+
+    .news_title {
+        width: auto;
+    }
+
+    .news_para {
+        width: auto;
+        line-height: 25px;
+    }
+
+    #footer {
+        margin-top: 60px;
+    }
+
+    .footer_item {
+        padding: 50px 0;
+    }
+
+    .footer_item p {
+        width: auto;
+        margin-top: 20px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+    .list_title {
+        margin-bottom: 10px;
+    }
+
+    .list_item {
+        line-height: 27px;
+    }
+
+    .footer_item_right {
+        padding: 20px 0;
+    }
+}
+/* ==========================from 320px to 575px end============================== */
+
+
+
+
+/* ==========================from 576px to 767px start============================== */
+@media (min-width:576px) and (max-width:767px){
+
+    #banner {
+        margin-top: 15px;
+    }
+
+
+    #banner .banner_left h3 {
+        font-size: 27px;
+        line-height: 35px;
+        width: auto;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    #banner .banner_left p {
+        width: auto;
+        padding-bottom: 10px;
+    }
+
+    #banner .banner_left .bannerbtn {
+        margin-bottom: 10px;
+    }
+
+    .banner_img {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    #service {
+        margin-top: 50px;
+    }
+
+    .title h3 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+
+    .title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+    }
+
+    .service_item {
+        margin-top: 30px;
+        padding: 25px 20px;
+    }
+
+    .service_item h3 {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .service_item p {
+        width: auto;
+        line-height: 20px;
+    }
+
+    #portfolio {
+        margin-top: 50px;
+    }
+
+    .portfolio_item {
+        margin-top: 30px;
+        margin-left: 142px;
+    }
+
+    .overlay {
+        width: auto;
+        padding: 25px 38px;
+        left: 32%;
+    }
+
+    #team_member {
+        margin-top: 50px;
+    }
+
+    .team_member_item {
+        margin-top: 30px;
+    }
+
+    .team_member_item img{
+        width:100%;
+    }
+
+    .team_member_item .name {
+        left: 210px;
+    }
+
+    #customer {
+        margin-top: 60px;
+    }
+
+    .customer_title h3 {
+        width: auto;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .customer_title p {
+        width: auto;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .customer_item {
+        margin-top: 30px;
+        padding: 15px;
+    }
+
+    .customer_img {
+        margin-bottom: 15px;
+    }
+
+    .customer_item p {
+        width: auto;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        line-height: 25px;
+    }
+
+    .customer_coma_img {
+        bottom: 10px;
+    }
+
+    .customer_item h5 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .customer_item h6 {
+        line-height: 20px;
+    }
+
+    #news {
+        margin-top: 60px;
+    }
+
+    .news_item {
+        margin-top: 30px;
+    }
+
+    .news_title {
+        width: auto;
+    }
+
+    .news_para {
+        width: auto;
+        line-height: 25px;
+    }
+
+    #footer {
+        margin-top: 60px;
+    }
+
+    .footer_item {
+        padding: 50px 0;
+    }
+
+    .footer_item p {
+        width: auto;
+        margin-top: 20px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+    .list_title {
+        margin-bottom: 10px;
+    }
+
+    .list_item {
+        line-height: 27px;
+    }
+
+    .footer_item_right {
+        padding: 20px 0;
+    }
+}
+/* ==========================from 576px to 767px end============================== */
+
+
+
+
+
+/* ==========================from 768px to 991px start============================== */
+@media (min-width:768px) and (max-width:991px){
+
+    #banner {
+        margin-top: 15px;
+    }
+
+    
+    .banner_left{
+        order:2;
+    }
+
+
+    .banner_right{
+        order:1;
+    }
+
+
+    #banner .banner_left h3 {
+        font-size: 27px;
+        line-height: 35px;
+        width: auto;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    #banner .banner_left p {
+        width: auto;
+        padding-bottom: 10px;
+    }
+
+    #banner .banner_left .bannerbtn {
+        margin-bottom: 10px;
+    }
+
+    .banner_img {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    #service {
+        margin-top: 50px;
+    }
+
+    .title h3 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+
+    .title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+    }
+
+    .service_item {
+        margin-top: 30px;
+        padding: 25px 20px;
+    }
+
+    .service_item h3 {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .service_item p {
+        width: auto;
+        line-height: 20px;
+    }
+
+    #portfolio {
+        margin-top: 50px;
+    }
+
+    .portfolio_item {
+        margin-top: 30px;
+        margin-left: 250px;
+    }
+
+    .overlay {
+        width: auto;
+        padding: 25px 38px;
+        left: 27%;
+    }
+
+    #team_member {
+        margin-top: 50px;
+    }
+
+    .team_member_item {
+        margin-top: 30px;
+    }
+
+    .team_member_item img{
+        width:100%;
+    }
+
+    .team_member_item .name {
+        left: 306px;
+    }
+
+    #customer {
+        margin-top: 60px;
+    }
+
+    .customer_title h3 {
+        width: auto;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .customer_title p {
+        width: auto;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .customer_item {
+        margin-top: 30px;
+        padding: 15px;
+    }
+
+    .customer_img {
+        margin-bottom: 15px;
+    }
+
+    .customer_item p {
+        width: auto;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        line-height: 25px;
+    }
+
+    .customer_coma_img {
+        bottom: 10px;
+    }
+
+    .customer_item h5 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .customer_item h6 {
+        line-height: 20px;
+    }
+
+    #news {
+        margin-top: 60px;
+    }
+
+    .news_item {
+        margin-top: 30px;
+    }
+
+    .news_title {
+        width: auto;
+    }
+
+    .news_para {
+        width: auto;
+        line-height: 25px;
+    }
+
+    #footer {
+        margin-top: 60px;
+    }
+
+    .footer_item {
+        padding: 50px 0;
+    }
+
+    .footer_item p {
+        width: auto;
+        margin-top: 20px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+    .list_title {
+        margin-bottom: 10px;
+    }
+
+    .list_item {
+        line-height: 27px;
+    }
+
+    .footer_item_right {
+        padding: 20px 0;
+    }
+}
+/* ==========================from 768px to 991px end============================== */
